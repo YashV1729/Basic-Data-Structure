@@ -52,7 +52,7 @@ class Test
 		int x = 18; // Element to be searched 
 		int index = interpolationSearch(x); 
 		
-		// If element was found 
+		// if element was found  
 		if (index != -1) 
 			System.out.println("Element found at index " + index); 
 			else
